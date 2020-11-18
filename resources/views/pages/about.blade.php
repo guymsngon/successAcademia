@@ -89,6 +89,15 @@
             </p>
           </div>
         </div>
+        <div class="media mb-4">
+          <i class="ti-basketball text-primary font-size-30 mt-2"></i>
+          <div class="media-body pl-3">
+            <h4 class="h5">Paiement Mode</h4>
+            <p>
+              Here we explane the paiement mode cum soluta nobis eleifend option congue is nihil imper per tem por legere me that doming vulputate.
+            </p>
+          </div>
+        </div> 
       </div> <!-- END col-lg-6 ml-auto-->
       <div class="col-lg-5 mb-4 mr-auto text-center">
         <img class="wow fadeInRight w-100 rounded" src="assets/img/360x300/4.jpg" alt="">
